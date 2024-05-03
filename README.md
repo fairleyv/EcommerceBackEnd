@@ -30,6 +30,7 @@ You have to install the modules shown in the package.json files. After the modul
 ## Usage 
 
 After the installation process is complete run "npm run start" in order to initialize the server and allow you to access and modify the database through the routes provided. 
+[Untitled_ May 2 2024 4_19 PM.webm](https://github.com/fairleyv/EcommerceBackEnd/assets/126346803/77b2af56-0fd8-4902-bae6-02b64ffd24ea)
 
 ## Credits 
 
